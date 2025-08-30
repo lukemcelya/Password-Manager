@@ -19,7 +19,7 @@ Step 2 (coming next) swaps in real encryption (Argon2id + AEAD) without changing
 > Step 2 will introduce **Argon2id** (KDF) and **AEAD** (ChaCha20-Poly1305 or AES-GCM).
 
 ## Build
-'''bash
+```bash
 cmake -S . -B build
 cmake --build build
 
