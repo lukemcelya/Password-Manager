@@ -1,0 +1,20 @@
+# Build artifacts
+/build/
+/out/
+/dist/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Generated/testing vaults
+*.dev
+*.vault
+*.tmp
