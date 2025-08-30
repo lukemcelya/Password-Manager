@@ -22,7 +22,7 @@ Step 2 (coming next) swaps in real encryption (Argon2id + AEAD) without changing
 ```bash
 cmake -S . -B build
 cmake --build build
-
+```
 ## Roadmap
 
 **Phase 1 - Prototype (current)**
