@@ -1,4 +1,8 @@
 # C++ Password Manager
+[![Build](https://github.com/lukemcelya/cpp-passman/actions/workflows/ci.yml/badge.svg)](https://github.com/lukemcelya/cpp-passman/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
 
 A tiny, local-first password manager built in C++.
 Step 1 is a plaintext prototype for learning and testing.
@@ -53,3 +57,4 @@ cmake --build build
 - [ ] Fuzz tests for parser
 - [ ] Optional Qt GUI reusing core library
 - [ ] GitHub Releases & demo GIFs in README
+
