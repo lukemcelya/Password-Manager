@@ -1,5 +1,5 @@
 # C++ Password Manager
-[![Build](https://github.com/lukemcelya/cpp-passman/actions/workflows/ci.yml/badge.svg)](https://github.com/lukemcelya/cpp-passman/actions/workflows/ci.yml)
+[![Build](https://github.com/lukemcelya/Password-Manager/actions/workflows/ci.yml/badge.svg)](https://github.com/lukemcelya/Password-Manager/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
